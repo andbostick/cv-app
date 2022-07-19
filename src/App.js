@@ -6,7 +6,7 @@ import General from "./components/General";
 import { Container } from "@mui/material";
 import { Paper } from "@mui/material";
 import { useRef } from "react";
-import ReactToPrint, { useReactToPrint } from 'react-to-print'
+import { useReactToPrint } from 'react-to-print'
 import { Button } from '@mui/material';
 import CompletedCV from "./components/CompletedCV";
 
