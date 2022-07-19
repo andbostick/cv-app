@@ -1,0 +1,18 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #d4f1f4;
+}
+
+.App-header {
+  text-align: center;
+  margin: 50px;
+}
+
+@media (min-width: 900px) {
+  .main-container {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
